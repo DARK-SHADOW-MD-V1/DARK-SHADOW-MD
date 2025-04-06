@@ -1,13 +1,13 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> BMW X5 MD </h1>
+<a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
+<a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
+ <h1 align="center"> DARK SHADOW-MD-V1</h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
  
 <p align="center"> DARK SHADOW-MD🥷, A Simple WhatsApp user BOT, Created by HIRUSHAN OFC.
 </p>
