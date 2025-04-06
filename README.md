@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗗𝗔𝗥𝗞+𝗦𝗛𝗔𝗗𝗢𝗪𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘+𝗕𝗬+𝗛𝗜𝗥𝗨𝗦𝗛𝗔𝗡)](https://git.io/typing-svg)
+<h1 align="center">DARK SHADOW MD V1</h1>
+
+## OWNER NUMBER   https://wa.me/94714793760
 
 
 
