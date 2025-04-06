@@ -2,104 +2,138 @@
 
 ## OWNER NUMBER   https://wa.me/94714793760
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-
-<a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
-      
-
- 
-<p align="center"> DARK SHADOW-MD🥷, A Simple WhatsApp user BOT, Created by HIRUSHAN OFC.
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=DARK-SHADOW-MD-V1" alt="Typing SVG" /></a>
 </p>
 <p align="center">
+<a href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main">
+    <img src="https://pomf2.lain.la/f/cui190rh.jpg"  width="700px">
+</a>
+<hr>
 
 
-                   
+<p align="center">
 
- <h1 align="center">  SCAN SESSION </h1>
- 
-
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`]()***
-
-
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRushimd967%2FDARK-SHADOW-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
- [QR] ***[`TAP HERE TO SCAN QR`](.com/qr)***
-
-
-<a><img src='https://pomf2.lain.la/f/cui190rh.jpg/LyHic3i.gif'/></a>
-## Support KINDOM OF DEVILL 
-## Join my channel for updates 
-<a href="https://chat.whatsapp.com/GizC2J7rj6RGkK2OovpJ60" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main/fork">
+    <img src="https://img.shields.io/github/forks/Rushimd937/DARK-SHADOW-MD?label=Fork&style=social">
+    
+  </a>
+  <a href="/stargazers">
+    <img src="https://img.shields.io/github/stars/Rushimd937/DARK-SHADOW-MDstyle=social">
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main">
+    <img src="https://img.shields.io/github/repo-size/Rushimd937/DARK-SHADOW-MD?color=purple&label=Repo%20Size&style=plastic">
 
-HOW TO REACH THE OWNER? 
+  </a>
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD//tree/main">
+    <img src="https://img.shields.io/github/license/Rushimd937/DARK-SHADOW-MD?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD//tree/main">
+    <img src="https://img.shields.io/github/languages/top/Rushimd937/DARK-SHADOW-MD?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <aj href="https://github.com/Rushimd937/DARK-SHADOW-MD/tree/main">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Hansaka%20hirushan&color=purple&style=plastic">
+
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://github.com/Rushimd937/DARK-SHADOW-MD">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-TECHNICAL%20DARK%20DEVILS20%(TDD)-purple&style=plastic">
+
+  </a>
+</p>
+
+## 💡 FOLLOW OUR CHANNEL
+
+<an href="https://whatsapp.com/channel/0029Vb4qZT923n3oOSIccf1h"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+
+<br>
+
+<div align="center">
  
-   
-   <a href="https://wa.me/message/94714793760">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
+  <h1>😔 DEPLOY NOW 😔</h1>
+</div>
 
-    ## Ask any thing
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<br>
 
-## STEPS TO DEPLOY YOUR BOT
+## 🎀 STEP 01 -  Fork The Repo
 
+<a href="https://github.com/Rushimd937/DARK-SHADOW-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK DARK SHADOW MD" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+## 🎀 STEP 02 -  Get Session
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+<a href="https://vajira-session-id-wsed.onrender.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
 
+`Not come session id use a vpn and try again`
 
+<br>
+<br>
 
-3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+## 🎀 STEP 03 -  Deployment Methods
 
-
-
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
-
-## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝗗𝗔𝗥𝗞-𝗦𝗛𝗔𝗗𝗢𝗪-𝙈𝘿-𝗩1
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- <h1 align="center">
-
-  ***[`TAP HERE TO DEPLOY ON HEROKU`]()
+<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
+<br>
 
 
-
-
-
-
-
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
+<div align="center">
  
+  <h1>😍👀 HEY GUYS.. WATCH DEPLOYMENT VIDEOS👇</h1>
+</div>
+
+## DARK SHADOW MD DEVELOPER TEAM
+
+| <a href="https://github.com/MINUKI-MD"><img src="https://files.catbox.moe/5nd737.jpg" width=90 height=90></a> | <a href="https://github.com/ManulOfcTech/"><img src="https://files.catbox.moe/imht98.jpg" width=90 height=90></a> | <a href="https://github.com/sathishkaprasad"><img src="https://files.catbox.moe/iij26g.jpg" width=90 height=90></a> | <a href=""><img src="https://pomf2.lain.la/f/cezntw1.jpg" width=90 height=90></a> | <a href="https://github.com/PakistanGang"><img src="https://i.ibb.co/M5jH8dZv/temp-image.jpg" width=90 height=90></a>  |  <a href="https://github.com/VajiraTech"><img src="https://telegra.ph/file/aa52e76beeeee65cad24c.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://i.ibb.co/4R8sfwCd/temp-image.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ahwljn42.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/ud9j45sk.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/qa8i6chz.jpg" width=90 height=90></a> | <a href="https://github.com/TECH-FSD-01"><img src="https://i.ibb.co/yF7WRMLk/temp-image.jpg" width=90 height=90></a> | <a href="https://github.com/VajiraTech"><img src="https://pomf2.lain.la/f/1u5x6v6p.jpg" width=90 height=90></a> |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| **[ADHI OFC](https://github.com/MINUKI-MD)**</br>Founder & Developer</br> | **[MANUL OFC](https://github.com/ManulOfcTech/)**</br>  Web developer</br> | **[SATHISHKA TDD](https://github.com/sathishkaprasad)**</br>Bug tester</br> | **[VAJIRA MD](h)**</br>Co-Owner | **[IMETH TDD](https://github.com/PakistanGang)**</br>|Voice & editing **[RASIYA KOD](https://github.com/VajiraTech)**</br> Bug Tester | **[DANIDU TDD](https://github.com/VajiraTech)**</br>Logo Designer | **[JANIYA KOD](https://github.com/VajiraTech)**</br> Tool Suplier | **[HIRUSHAN KOD](https://github.com/VajiraTech)**</br>Bug Supler | **[MR NADUWA TDD](https://github.com/VajiraTech)**</br>Bug Tester | **[TECH-FSD](https://github.com/TECH-FSD-01)**</br>Movie Controller | **[BHAGYA KOD](https://github.com/VajiraTech)**</br>Voice Helper |
+## Workflow Deploy Code 👇
 
 
+```
+name: Node.js CI
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   
-  
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
+jobs:
+  build:
 
+    runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-## Contributions
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
-Contributions to *BMW-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-## THANKS TO [GOD]
+    - name: Install dependencies
+      run: npm install
 
-## License
-
-The *DARK SHADOW-MD-V1* is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the *DARK SHADOW-MD-V1*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    - name: Start application
+      run: npm start
+```
