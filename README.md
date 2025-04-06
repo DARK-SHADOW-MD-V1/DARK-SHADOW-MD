@@ -25,7 +25,7 @@
 
 
 <a><img src='https://pomf2.lain.la/f/cui190rh.jpg/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
+## Support KINDOM OF DEVILL 
 ## Join my channel for updates 
 <a href="https://chat.whatsapp.com/GizC2J7rj6RGkK2OovpJ60" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -67,7 +67,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`]()***
 
 
 
@@ -76,7 +76,7 @@ HOW TO REACH THE OWNER?
 
 
   ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
+ 
 
 
 
