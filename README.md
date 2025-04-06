@@ -4,9 +4,8 @@
 
 <a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗗𝗢𝗠+𝗢𝗙+𝗗𝗘𝗩𝗜𝗟𝗟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗗𝗢𝗠𝗢𝗙𝗗𝗘𝗩𝗜𝗟𝗟)](https://git.io/typing-svg)
 
-<a><img src='https://files.catbox.moe/dt99da.jpg'/></a>
  
 <p align="center"> DARK SHADOW-MD🥷, A Simple WhatsApp user BOT, Created by HIRUSHAN OFC.
 </p>
