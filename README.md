@@ -66,7 +66,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`]()***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`]()
 
 
 
