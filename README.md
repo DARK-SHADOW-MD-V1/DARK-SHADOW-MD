@@ -1,5 +1,5 @@
-<a href="https://wa.me/message/94714793760 
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗖𝗢𝗡𝗧𝗔𝗖𝗧+https://wa.me/message/94714793760)](https://git.io/typing-svg)
+
  <h1 align="center"> DARK SHADOW-MD-V1</h1>
 
 
